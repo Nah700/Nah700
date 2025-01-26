@@ -88,6 +88,10 @@
 
 ###
 
+![](https://github-profile-trophy.vercel.app/?username=Nah700&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/nahim-kandari-999390278/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -110,5 +114,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nah700/Nah700/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Nah700/Nah700/output/github-snake.svg" />
 </picture>
+
+###
+
+<div align="center">
+    <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"  />
+</div>
 
 ###
